@@ -1,6 +1,6 @@
 # Projet_Generateur
 
-Projet Générateur _ L2 _ Kevin MUNTO _ Dylan QUELLET _ Aurélien DENIS
+Projet Générateur 
 
 Pour lancer notre programme, vouz devez tout d'abord modifier 
 le #define NotreFichier "C:\\Users\\dquel\\OneDrive\\Bureau\\Fuchsia\\L2\\C\\dictionnaire_non_accentue.txt"
